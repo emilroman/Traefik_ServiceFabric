@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PublishProfile xmlns="http://schemas.microsoft.com/2015/05/fabrictools">
-  <ClusterConnectionParameters ConnectionEndpoint="" />
+  <ClusterConnectionParameters ConnectionEndpoint="thevotingapp.westeurope.cloudapp.azure.com:19000" X509Credential="true" ServerCertThumbprint="A5B75ECBF9172AD92BFC6EC6A467CADE0C06F015" FindType="FindByThumbprint" FindValue="A5B75ECBF9172AD92BFC6EC6A467CADE0C06F015" StoreLocation="CurrentUser" StoreName="My" />
   <ApplicationParameterFile Path="..\ApplicationParameters\Cloud.xml" />
 </PublishProfile>

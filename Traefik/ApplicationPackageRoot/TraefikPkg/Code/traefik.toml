@@ -40,7 +40,7 @@ defaultEntryPoints = ["http", "https"]
 [entryPoints.http]
 address = ":80"
 [entryPoints.traefik]
-address = ":8080"
+address = ":8081"
 
 # Enable access logs
 # By default it will write to stdout and produce logs in the textual
